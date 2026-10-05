@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "spaceant", "app.vcproj", "{BF97C493-6280-4F8F-8110-B0BE64A2A535}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		dbg = dbg
+		opt = opt
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BF97C493-6280-4F8F-8110-B0BE64A2A535}.dbg.ActiveCfg = dbg|Win32
+		{BF97C493-6280-4F8F-8110-B0BE64A2A535}.dbg.Build.0 = dbg|Win32
+		{BF97C493-6280-4F8F-8110-B0BE64A2A535}.opt.ActiveCfg = opt|Win32
+		{BF97C493-6280-4F8F-8110-B0BE64A2A535}.opt.Build.0 = opt|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

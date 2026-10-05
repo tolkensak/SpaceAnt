@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Qaric Hurti", "Qaric Hurti.vcproj", "{BF97C493-6280-4F8F-8110-B0BE64A2A535}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BF97C493-6280-4F8F-8110-B0BE64A2A535}.Debug.ActiveCfg = Debug|Win32
+		{BF97C493-6280-4F8F-8110-B0BE64A2A535}.Debug.Build.0 = Debug|Win32
+		{BF97C493-6280-4F8F-8110-B0BE64A2A535}.Release.ActiveCfg = Release|Win32
+		{BF97C493-6280-4F8F-8110-B0BE64A2A535}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
