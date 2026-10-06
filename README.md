@@ -18,7 +18,8 @@ Space Ant is a small Windows application created in 2001. It's a math problem ca
 
 
 ## About the Puzzle
-Guide a bug that can see grass to its left and straight ahead, but is blind to its right. Plan its route carefully: any grass that ends up on its right is lost forever, so the challenge is to eat every patch without leaving any behind.
+
+The puzzle is known as **"Blind Bug"** or **"Blind Snail"**. A bug with a blind right eye must eat all the grass in a field without letting any grass end up on its right side.
 
 <br />
 
